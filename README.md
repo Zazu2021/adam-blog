@@ -1,4 +1,4 @@
-# Este es el post de Marlen en el Adam Blog
+# Este es el post de Marlén en el Adam Blog
 
 ![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
 
